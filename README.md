@@ -1,5 +1,7 @@
 # Expense Tracker CLI
 
+![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white) ![stdlib only](https://img.shields.io/badge/deps-stdlib_only-blue.svg) ![License MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 A zero-dependency personal finance CLI in pure Python — track spends, set budgets, get month-end summaries.
 
 Designed for daily terminal use: one command to log an expense, one to see where your money went. Data lives in a local JSON file — no accounts, no cloud, no dependencies.
